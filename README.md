@@ -20,7 +20,7 @@ Here are some of the websites I've developed:
 🔗 Custom & Co. (https://customandco.com/)
 > I made this website for my client from the UK for their Diamond Jewellery Business
 
-> Tech Used: WordPress, Elementor, HTML, CSS, JavaScript, SEO.
+> Tech Used: WordPress, WP Bakery, HTML, CSS, JavaScript, SEO.
 
 🔗 Mind Booster Tutoring (https://mindboostertutoring.com/)
 > I made this website for my client from the US for their Online Tutor Academy
@@ -31,6 +31,27 @@ Here are some of the websites I've developed:
 > I made this website for my client from the US for their Carolers Team
 
 > Tech Used: WordPress, Elementor, HTML, CSS, JavaScript, SEO.
+
+🔗 Michael Rose Jewellers (https://michaelrose.com/)
+> I made this website for my client from the UK for their Diamond Jewellery Business
+
+> Tech Used: Shopify, SEO.
+
+🔗 Millington Jewellers (https://millingtonsjewellers.com/)
+> I made this website for my client from the UK for their Diamond Jewellery Business
+
+> Tech Used: Shopify, SEO.
+
+🔗 Polished Punk (https://polished-punk.com/)
+> I made this website for my client from the US for the Children's Skin Care Products Business
+
+> Tech Used: Shopify, SEO.
+
+🔗 Innov8 Space (https://innov8-space.com/)
+> I made this website for my client from Australia for the Kids and Office Products Business
+
+> Tech Used: Shopify, SEO.
+
 
 ## How to Reach Me
 - 📧 Email: Daimshah1996@gmail.com
