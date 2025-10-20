@@ -52,6 +52,11 @@ I created this website for my client from the US, who operates a car detailing b
 
 > Tech Used: Shopify, SEO.
 
+🔗 Grayy Customs2 (https://www.grayycustoms2.com/)
+> I created this website for my client from the US, who operates a car detailing business.
+
+> Tech Used: Wix.
+
 
 ## How to Reach Me
 - 📧 Email: Daimshah1996@gmail.com
