@@ -7,6 +7,21 @@ I'm a WordPress & Shopify Developer passionate about building clean, functional 
 
 Here are some of the websites I've developed:
 
+🔗 ICoachingEudcation (https://icoachingeducation.com/)
+I revamped this website for my previous employer.
+
+> Tech Used: WordPress, Divi 5, HTML, CSS, JavaScript, SEO.
+
+🔗 SNBCare (https://snbcare.com/)
+I revamped this website for my previous employer.
+
+> Tech Used: WordPress, Elementor, HTML, CSS, JavaScript, SEO.
+
+🔗 Spectrum Healthcare Management (https://spectrumhcm.com/)
+I revamped this website for my previous employer.
+
+> Tech Used: WordPress, Elementor, HTML, CSS, JavaScript, SEO.
+
 🔗 Web Tech Station (https://webtechstation.com/)
 I created this website as my personal portfolio.
 
